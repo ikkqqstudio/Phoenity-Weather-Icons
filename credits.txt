@@ -1,2 +1,2 @@
-Phoenity Aura Icons (Dual-Licensed Under CC BY-SA 3.0 And LGPL) By @Cheeaun
+Phoenity Aura Icons (Dual-Licensed Under CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0/legalcode.en> And LGPL <https://www.gnu.org/licenses/lgpl-3.0.html>) By @Cheeaun
 https://github.com/cheeaun/phoenity-icons
